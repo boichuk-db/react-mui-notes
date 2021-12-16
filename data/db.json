@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Vlad birthday day",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my mui training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay for YouTube",
+      "details": "Monthly payment 4.99$",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Start Workout",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam hic soluta, porro nam deleniti quidem vero expedita, cum veniam totam ut error dolorum. Quo, itaque. Labore qui aspernatur soluta quo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam hic soluta, porro nam deleniti quidem vero expedita, cum veniam totam ut error dolorum. Quo, itaque. Labore qui aspernatur soluta quo.",
+      "category": "todos",
+      "id": 5
+    },
+    {
+      "title": "From best book",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam hic soluta, porro nam deleniti quidem vero expedita, cum veniam totam ut error dolorum. Quo, itaque. Labore qui aspernatur soluta quo.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam hic soluta, porro nam deleniti quidem vero expedita, cum veniam totam ut error dolorum. Quo, itaque. Labore qui aspernatur soluta quo.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam hic soluta, porro nam deleniti quidem vero expedita, cum veniam totam ut error dolorum. Quo, itaque. Labore qui aspernatur soluta quo.",
+      "category": "reminders",
+      "id": 6
+    }
+  ]
+}
